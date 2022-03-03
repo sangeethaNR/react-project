@@ -1,0 +1,28 @@
+/* .center { */
+
+    /* padding: 10px; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .text_center{
+      margin: auto;
+  } */
+  /* body, html {
+    height: 100%;
+    display: grid;
+  } */
+  .center {
+    background: white;
+ 
+  width: 60%;
+  margin: 50px auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  resize: both;
+  overflow: auto;
+  border: solid 2px green;
+  }
